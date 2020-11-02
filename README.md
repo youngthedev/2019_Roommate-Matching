@@ -38,15 +38,3 @@ JavaScript에 대한 지식이 없어서 못 써 본 점이 무척 아쉽다! �
 <hr>
 
 **프로젝트 구성**
-
-![image-20201102150518296](README.assets/image-20201102150518296.png)
-
-![image-20201102150559893](README.assets/image-20201102150559893.png)
-
-![image-20201102150630847](README.assets/image-20201102150630847.png)
-
-![image-20201102150808012](README.assets/image-20201102150808012.png)
-
-![image-20201102150740962](README.assets/image-20201102150740962.png)
-
-![image-20201102150903236](README.assets/image-20201102150903236.png)
